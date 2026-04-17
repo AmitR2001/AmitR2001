@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developer Roles
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on front-end projects
-- 📫 How to reach me amitrathod98765@gmail.com
+- 📫 How to reach me amit10.work@gmail.com
   
 <!---
 AmitR2001/AmitR2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
